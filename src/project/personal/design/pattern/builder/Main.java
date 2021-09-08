@@ -1,4 +1,4 @@
-package project.personal.design.pattern;
+package project.personal.design.pattern.builder;
 
 import project.personal.design.pattern.builder.CLanguageBuilder;
 import project.personal.design.pattern.builder.JavaLanguageBuilder;
